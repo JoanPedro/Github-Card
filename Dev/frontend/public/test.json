@@ -1,0 +1,17 @@
+{
+    "Frutas": {
+        "0": "Mamão",
+        "1": "Melancia",
+        "2": "Limão"
+    },
+    "Verduras": {
+        "0": "Cenoura",
+        "1": "Batata",
+        "2": "Giló"
+    },
+    "Consumiveis": {
+        "0": "Copos",
+        "1": "Papel",
+        "2": "Toalha"
+    }
+}
