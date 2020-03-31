@@ -24,6 +24,10 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="Frontend" src=".github/GithubCard.png" width="50%">
+</p>
+
 <br>
 
 ## :rocket: Tecnologias
